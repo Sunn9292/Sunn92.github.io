@@ -1,0 +1,17 @@
+[
+    {
+      "href": "index.html",
+      "text": "Home",
+      "classActive": "active"
+    },
+    {
+      "href": "#about",
+      "text": "Author",
+      "classActive": ""
+    },
+    {
+      "href": "contact-us.html",
+      "text": "Contact",
+      "classActive": ""
+    }
+  ]

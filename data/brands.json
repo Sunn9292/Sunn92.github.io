@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "title": "Acer",
+        "numOfBrands": 2
+    },
+    {
+        "id": 2,
+        "title": "Asus",
+        "numOfBrands": 1
+    },
+    {
+        "id": 3,
+        "title": "Dell",
+        "numOfBrands" : 2
+    },
+    {
+        "id": 4,
+        "title": "Lenovo",
+        "numOfBrands" : 2
+    },
+    {
+        "id": 5,
+        "title": "LG",
+        "numOfBrands" : 1
+    },
+    {
+        "id": 6,
+        "title": "Razzer",
+        "numOfBrands" : 1
+    },
+    {
+        "id": 7,
+        "title": "Only PC",
+        "numOfBrands" : 3
+    }
+]

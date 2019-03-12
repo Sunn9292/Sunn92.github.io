@@ -1,0 +1,279 @@
+[
+    {
+        "id": 1,
+        "name": "LG Gaming Monitor",
+        "description": "32' / 1920×1440",
+        "picture": {
+            "src": "images/gaming-monitor/monitor03.png",
+            "alt" : "LG Gaming Monitor"
+        },
+        "price": 389,
+        "stars": 4,
+        "category": {
+            "id": 3,
+            "title": "Gaming PCs"
+        },
+        "brand": {
+            "id": 5,
+            "title" : "LG"
+        },
+        "banners": {
+            "srcExists": false,
+            "src": ""
+        }
+    },
+    {
+        "id": 2,
+        "name": "Acer Laptop",
+        "description": "i3 8350k / 8Gb RAM / 22'",
+        "picture": {
+            "src": "images/laptop/laptop01.png",
+            "alt" : "Acer Laptop"
+        },
+        "price": 599,
+        "stars": 3,
+        "category": {
+            "id": 2,
+            "title": "Laptops"
+        },
+        "brand": {
+            "id": 1,
+            "title" : "Acer"
+        },
+        "banners": {
+            "srcExists": true,
+            "src": "images/home/sale.png"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Asus Gaming Mouse",
+        "description": "Black / 2500dpi / Symetrical",
+        "picture": {
+            "src": "images/gaming-mouse/mouse03.png",
+            "alt" : "Asus Gaming Mouse"
+        },
+        "price": 59,
+        "stars": 4,
+        "category": {
+            "id": 4,
+            "title": "Gaming Mouse"
+        },
+        "brand": {
+            "id": 2,
+            "title" : "Asus"
+        },
+        "banners": {
+            "srcExists": false,
+            "src": "images/home/new.png"
+        }
+    },
+    {
+        "id": 4,
+        "name": "HYDRA Gaming PC",
+        "description": "Ryzen 3 1600 / 8Gb RAM / GTX 980",
+        "picture": {
+            "src": "images/gaming-pc/pc01.png",
+            "alt" : "HYDRA Gaming PC"
+        },
+        "price": 490,
+        "stars": 3,
+        "category": {
+            "id": 1,
+            "title": "Gaming PCs"
+        },
+        "brand": {
+            "id": 7,
+            "title" : "Only PC"
+        },
+        "banners": {
+            "srcExists": true,
+            "src": "images/home/new.png"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Dell Office Monitor",
+        "description": "25' / 1920×1200 Full HD",
+        "picture": {
+            "src": "images/gaming-monitor/monitor02.png",
+            "alt" : "Dell Office Monitor"
+        },
+        "price": 230,
+        "stars": 4,
+        "category": {
+            "id": 3,
+            "title": "Gaming Monitors"
+        },
+        "brand": {
+            "id": 3,
+            "title" : "Dell"
+        },
+        "banners": {
+            "srcExists": false,
+            "src": ""
+        }
+    },
+    {
+        "id": 6,
+        "name": "Razzer Gaming Mouse",
+        "description": "Optical Sensor, 16000dpi, Black",
+        "picture": {
+            "src": "images/gaming-mouse/mouse02.png",
+            "alt" : "Razzer Gaming Mouse"
+        },
+        "price": 79,
+        "stars": 3,
+        "category": {
+            "id": 4,
+            "title": "Gaming Mouse"
+        },
+        "brand": {
+            "id": 6,
+            "title" : "Razzer"
+        },
+        "banners": {
+            "srcExists": false,
+            "src": ""
+        }
+    },
+    {
+        "id": 7,
+        "name": "Dell Laptop",
+        "description": "Intel® Core™ i5 8300H / 17.3' / 8GB",
+        "picture": {
+            "src": "images/laptop/laptop03.png",
+            "alt" : "Dell Laptop"
+        },
+        "price": 720,
+        "stars": 5,
+        "category": {
+            "id": 2,
+            "title": "Laptops"
+        },
+        "brand": {
+            "id": 3,
+            "title" : "Dell"
+        },
+        "banners": {
+            "srcExists": false,
+            "src": ""
+        }
+    },
+    {
+        "id": 8,
+        "name": "PRIME Gaming PC",
+        "description": "i5 8800k/ 8GB DDR4 / 240GB SSD",
+        "picture": {
+            "src": "images/gaming-pc/pc02.png",
+            "alt" : "PRIME Gaming PC"
+        },
+        "price": 819,
+        "stars": 3,
+        "category": {
+            "id": 1,
+            "title": "Gaming PCs"
+        },
+        "brand": {
+            "id": 7,
+            "title" : "Only PC"
+        },
+        "banners": {
+            "srcExists": false,
+            "src": "images/home/sale.png"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Lenovo Gaming Monitor",
+        "description": "28' / 1440x1200",
+        "picture": {
+            "src": "images/gaming-monitor/monitor01.png",
+            "alt" : "Lenovo Gaming Monitor"
+        },
+        "price": 340,
+        "stars": 4,
+        "category": {
+            "id": 3,
+            "title": "Gaming Monitors"
+        },
+        "brand": {
+            "id": 4,
+            "title" : "Lenovo"
+        },
+        "banners": {
+            "srcExists": true,
+            "src": "images/home/new.png"
+        }
+    },
+    {
+        "id": 10,
+        "name": "Acer Gaming Mouse",
+        "description": "Optički / 4000dpi / Black",
+        "picture": {
+            "src": "images/gaming-mouse/mouse01.png",
+            "alt" : "Acer Gaming Mouse"
+        },
+        "price": 60,
+        "stars": 4,
+        "category": {
+            "id": 4,
+            "title": "Gaming Mouse"
+        },
+        "brand": {
+            "id": 1,
+            "title" : "Acer"
+        },
+        "banners": {
+            "srcExists": false,
+            "src": ""
+        }
+    },
+    {
+        "id": 11,
+        "name": "AURORA Gaming PC",
+        "description": "i7 8800k/ 16GB DDR4 / 1TB SSD",
+        "picture": {
+            "src": "images/gaming-pc/pc03.png",
+            "alt" : "AURORA Gaming PC"
+        },
+        "price": 1090,
+        "stars": 5,
+        "category": {
+            "id": 1,
+            "title": "Gaming PCs"
+        },
+        "brand": {
+            "id": 7,
+            "title" : "Only PC"
+        },
+        "banners": {
+            "srcExists": false,
+            "src": ""
+        }
+    },
+    {
+        "id": 12,
+        "name": "Lenovo Laptop",
+        "description": "i3 4400k/ 8GB DDR3 / 500Gb SSD",
+        "picture": {
+            "src": "images/laptop/laptop02.png",
+            "alt" : "Lenovo Laptop"
+        },
+        "price": 459,
+        "stars": 4,
+        "category": {
+            "id": 2,
+            "title": "Laptops"
+        },
+        "brand": {
+            "id": 4,
+            "title" : "Lenovo"
+        },
+        "banners": {
+            "srcExists": false,
+            "src": "images/home/new.png"
+        }
+    }
+    
+]

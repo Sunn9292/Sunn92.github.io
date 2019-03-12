@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "Gaming PCs",
+        "plusButton": false,
+        "collapse": {
+            "collapseTorF": true,
+            "href": "#gamingpcs",
+            "collapseId": "gamingpcs"
+        }
+    },
+    {
+        "id": 2,
+        "title": "Laptops",
+        "plusButton": false,
+        "collapse": {
+            "collapseTorF": true,
+            "href": "#laptops",
+            "collapseId": "laptops"
+        }
+    },
+    {
+        "id": 3,
+        "title": "Gaming Monitors",
+        "plusButton": false,
+        "collapse": {
+            "collapseTorF": true,
+            "href": "#gamingmonitors",
+            "collapseId": "gamingmonitors"
+        }
+    },
+    {
+        "id": 4,
+        "title": "Gaming Mouse",
+        "plusButton": false,
+        "collapse": {
+            "collapseTorF": false,
+            "href": "",
+            "collapseId": ""
+        }
+    }
+]
